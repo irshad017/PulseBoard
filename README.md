@@ -19,7 +19,7 @@
     - Line Charts
     - Bar Charts
     - Pie Charts
-    - Radar Charts
+    - Radar Charts and many more...
   
 - **Responsive Design**: 
   - Fully optimized for all devices, providing a seamless experience on desktops, tablets, and smartphones.
