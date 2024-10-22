@@ -54,15 +54,13 @@ const Dashboard: React.FC = () => {
                         <h2 className="text-lg font-semibold mb-2">Product Sales</h2>
                         <StackedBarChart title="StackedBar" />
                     </div>
-                    <div className="bg-gray-100 p-4 rounded-lg shadow-md">
-
+                    <div className="bg-gray-100 p-4 rounded-lg shadow-md">git 
                         <h2 className="text-lg font-semibold mb-2">Product Sales</h2>
                         <PolarChart title="Polar Chart" />
                     </div>
                 </div>
             </main>
         </div>
-
     );
 };
 
